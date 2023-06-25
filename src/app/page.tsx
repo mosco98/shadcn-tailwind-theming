@@ -4,7 +4,7 @@ const HomePage: NextPage = (): JSX.Element => {
   return (
     <main className="">
       <div className="container">
-        <p>Hello</p>
+        <p>Hello I am working now</p>
       </div>
     </main>
   )
